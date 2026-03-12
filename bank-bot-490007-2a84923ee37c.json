@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bank-bot-490007",
+  "private_key_id": "2a84923ee37c081718621d43a413470f52f4ff86",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwmuz+pH2Efe+F\nCwQKZtJTKkzNLNhkw9vQzk5qzsdXHX9ZaCAL6CPsOIio4+JbvH82YZzA7PBe7Iiv\nNj1zoYCMFYn4g9SU1REiaF6L+FTOSJBUEUZJha8i86ibpblyBjOINe0BTR0m2rWR\nj06aMJPv/cMF2wqT0O0yKHjzxdrTh63k9wbqbxgvsHjgxwxZNrlJxy6FIT/pPGUb\n8Z/TZjNWUM7gQllt4Om6AQ3bMU2aJ692R4ZxvEJW+mWo9Sznmg123RuY6H+LMmvA\nHgHBheMb5oo/XA/081BL4KU6Tgu+sLFbys5U8TYMiXNOaxTZfuFzjGGgwWqb50Kt\nPUmGhhBpAgMBAAECggEAAhse11yDyKgtyoLanfsi5+35s3qk6/Kv9Nn48mob02yd\nH6ZPt4ShpQf5jTYGdXyWccIROfW5WhBtAtXdPrs+yqzZE9cSmmG+DhB7jCS+ciVI\nX1BDa84FzB9ms9BymSr8w1ONS3YtclCqWJ2CXPFWWkbG5BN8GU4k/fOgmZuS4/HV\npzLqe3bb6tcuFddQxQ8BziFQ18oghFVUCTUlleXG5iHYQbTPV6vRmIiGxpEhvoFp\nP9a0xS8dyjYqHcrHUgqOly+c1jNJiRHtC6jCF8PTA9zmjuzlKtICQWMhv2xR+8RC\nd0tI7SpS4JCIMtsmrhYYic+IacL9Wy9zNtZJCJrm7wKBgQDqTnCfeM2bQMxleGg3\nO6J2YA9OtNUCCGOeadBDaXt0YRZFbUmhXm9obhGh0RotHemXaBh+PdV7lv1rSogv\ngs6UZaESbVMj0O+2InvIVkMovaWqbjO6TKT1anl47MEDHamjOriTopyZ1fHNWJoE\ngeE9j/R8sSemQllTnhDiE6zcpwKBgQDA9NgTIesRQmQEqO9rrXUvtHKZ14OqUZVW\np0KteVupiBD4pOerSoSUrAnauq8FFnrGkjYKClYpFDCgoKFdbqmGlQRXMcRJwfij\nvCmYFKToqKP92N7tav3pFQh1qWnZl/CKQzh7vJEym1n6WPUV1VB0lcVamkyVnO9B\nrY5kNXL8bwKBgQCJPnERuD0XF5miRiklUTUUiaftvlaW3jsb63cmRX8e6E+XUzCx\n6RLw5KhHVKg0jTTqjvrp12ZZAlRmqD2lNsWyfuUeWhM9A4Gl+gTvkDe+gXesoOiD\n06k8Z6XHg0Z7gMCA8EB1meaI5ZzBX4i34ywAV3YqI8rJxEt2gzv4cPXsOQKBgGQT\nGLXjk40iB8m67GHGVs7lIcLUWb9ODMwid5yNIpMstNCghl76iQSqrXm59OgInqi6\nUDio38Lya74DUW2p5VadluC6OPmgFpqlDlWH73eTb2pKvmQYZ5Qpiner4/Ass16i\nOntCc3Pxypri5EnslovA2diBylKWUCiaIQ2sAvUVAoGBAORHTgSaISnKnZ7nBO4p\n78cKJWTAt73BENSQN1ufIyFa0ue+cdI/BjXeIkQMub5eVJfUsgRscW3GA1pY09z1\nxcx1RIptLU0cEbt9MHEzyHtTrv20eV1V0uLcT8jfuTj/b7leQN0I2/uY2Zmnsgjz\n8Z2ETULbqJmMFb2NTS+eBnmT\n-----END PRIVATE KEY-----\n",
+  "client_email": "bank-bot@bank-bot-490007.iam.gserviceaccount.com",
+  "client_id": "117352377121929166735",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bank-bot%40bank-bot-490007.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
